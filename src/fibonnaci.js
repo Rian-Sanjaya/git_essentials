@@ -35,4 +35,4 @@ function febo1(num) {
 	console.log(sum);
 }
 
-febo(100);
+febo(200);
