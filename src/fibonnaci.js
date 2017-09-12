@@ -1,3 +1,4 @@
+// two conditions of febonaci
 // condition: last febo is less than num
 function febo(num) {
 	var febo = [1, 1];
