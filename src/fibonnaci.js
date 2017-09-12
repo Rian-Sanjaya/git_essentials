@@ -32,8 +32,8 @@ function febo1(num) {
 		}
 	}
 
-	console.log(febo);
+	console.log(i);
 	console.log(sum);
 }
 
-febo(200);
+febo(100);
